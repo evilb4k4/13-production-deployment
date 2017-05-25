@@ -72,3 +72,6 @@ Meets all Assignment Reqs | 6
 Uses idiomatic code style | 3
 Follows proper Git workflow | 1
 **Total** | **10**
+
+##Lab 13: Heroku Deployment
+https://adan-blog-app.herokuapp.com/
